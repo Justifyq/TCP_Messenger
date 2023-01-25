@@ -1,0 +1,7 @@
+C:\Users\Justify\RiderProjects\Messanger\Server\bin\Debug\Server.exe
+C:\Users\Justify\RiderProjects\Messanger\Server\bin\Debug\Server.pdb
+C:\Users\Justify\RiderProjects\Messanger\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Justify\RiderProjects\Messanger\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justify\RiderProjects\Messanger\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Justify\RiderProjects\Messanger\Server\obj\Debug\Server.exe
+C:\Users\Justify\RiderProjects\Messanger\Server\obj\Debug\Server.pdb

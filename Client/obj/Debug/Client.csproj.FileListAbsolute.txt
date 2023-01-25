@@ -1,0 +1,10 @@
+C:\Users\Justify\RiderProjects\Messanger\Client\bin\Debug\Client.exe.config
+C:\Users\Justify\RiderProjects\Messanger\Client\bin\Debug\Client.exe
+C:\Users\Justify\RiderProjects\Messanger\Client\bin\Debug\Client.pdb
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.exe
+C:\Users\Justify\RiderProjects\Messanger\Client\obj\Debug\Client.pdb
